@@ -38,6 +38,7 @@ This hybrid model combines a Convolutional Neural Network (CNN) for feature extr
 * **Loss Function**: Categorical Cross-Entropy
 * **Regularization**: Dropout, Early Stopping, Learning Rate Scheduling
 * **Metrics**: Accuracy, Precision, Recall, F1-Score
+[Notebook](https://github.com/omarelnokrashy/Fine-Grained-Fruit-Quality-Assessment/blob/main/Models/Transformer/transformer-model.ipynb)
 
 ### 2. AlexNet Model
 
@@ -48,7 +49,8 @@ The AlexNet model was adapted for this classification task. The architecture use
 * **Loss Function**: Categorical Cross-Entropy
 * **Regularization**: Dropout, Early Stopping, Learning Rate Scheduling
 * **Metrics**: Accuracy, Precision, Recall, F1-Score
-
+  [Notebook](https://github.com/omarelnokrashy/Fine-Grained-Fruit-Quality-Assessment/blob/main/Models/AlexNet/alexnet.ipynb)
+  
 ### 3. Inception Model
 
 This architecture is a simplified version of the Inception network, which is known for its multi-path feature extraction. A custom Inception module with three parallel "towers" was designed to process the input through multiple receptive fields and pooling paths. The model is compact and efficient, achieving competitive performance while maintaining a low parameter count.
@@ -58,6 +60,7 @@ This architecture is a simplified version of the Inception network, which is kno
 * **Loss Function**: Categorical Cross-Entropy
 * **Regularization**: Dropout, Early Stopping, Learning Rate Scheduling
 * **Metrics**: Accuracy, Precision, Recall, F1-Score
+[Notebook](https://github.com/omarelnokrashy/Fine-Grained-Fruit-Quality-Assessment/blob/main/Models/inception_model/inception_model.ipynb)
 
 ## Results and Comparison
 
