@@ -1,7 +1,3 @@
-Based on the project report you provided, here is a well-formatted README file ready to be added to your GitHub repository. It includes clear headings, a project summary, details on the dataset, descriptions of the models, and a comparison of the results.
-
-***
-
 # [cite_start]Fine-Grained Fruit Quality Assessment [cite: 2]
 
 ## Project Overview
