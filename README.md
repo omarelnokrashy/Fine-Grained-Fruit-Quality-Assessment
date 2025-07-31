@@ -6,16 +6,6 @@ This project is a deep learning-based image classification system designed to pe
 
 This project was completed as part of a Neural Networks course.
 
-## Team
-
-The project team members and their IDs are:
-* Omar Elsayed Ibrahim Aly (ID: 2022170827)
-* Omar Mohamed Adel Salama (ID: 2022170829)
-* Aly Tarek Fekry (ID: 2022170825)
-* Malak Amr Ismail (ID: 2022170843)
-* Malak Hossam Aboelfetouh (ID: 2022170842)
-* Maria Raafat Ezra (ID: 2022170835)
-
 ## Dataset
 
 The dataset consists of labeled food images representing different stages of ripeness and quality for bananas and tomatoes. Each image is assigned to one of seven classes.
